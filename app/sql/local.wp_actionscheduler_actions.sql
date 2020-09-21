@@ -1,0 +1,9 @@
+/*!40101 SET NAMES binary*/;
+/*!40014 SET FOREIGN_KEY_CHECKS=0*/;
+/*!40103 SET TIME_ZONE='+00:00' */;
+INSERT INTO `wp_actionscheduler_actions` VALUES
+(95,"action_scheduler/migration_hook","complete","2020-09-21 01:08:10","2020-09-21 01:08:10","[]","O:30:\"ActionScheduler_SimpleSchedule\":2:{s:22:\"\0*\0scheduled_timestamp\";i:1600650490;s:41:\"\0ActionScheduler_SimpleSchedule\0timestamp\";i:1600650490;}",1,1,"2020-09-21 01:08:18","2020-09-21 01:08:18",0,NULL),
+(96,"action_scheduler/migration_hook","canceled","2020-09-21 01:08:10","2020-09-21 01:08:10","[]","O:30:\"ActionScheduler_SimpleSchedule\":2:{s:22:\"\0*\0scheduled_timestamp\";i:1600650490;s:41:\"\0ActionScheduler_SimpleSchedule\0timestamp\";i:1600650490;}",2,0,"2020-09-21 01:08:18","2020-09-21 01:08:18",0,NULL),
+(97,"action_scheduler/migration_hook","complete","2020-09-21 01:09:18","2020-09-21 01:09:18","[]","O:30:\"ActionScheduler_SimpleSchedule\":2:{s:22:\"\0*\0scheduled_timestamp\";i:1600650558;s:41:\"\0ActionScheduler_SimpleSchedule\0timestamp\";i:1600650558;}",1,1,"2020-09-21 01:09:21","2020-09-21 01:09:21",0,NULL),
+(98,"wpforms_process_entry_emails_meta_cleanup","pending","2020-09-22 00:00:00","2020-09-22 00:00:00","{\"tasks_meta_id\":1}","O:32:\"ActionScheduler_IntervalSchedule\":5:{s:22:\"\0*\0scheduled_timestamp\";i:1600732800;s:18:\"\0*\0first_timestamp\";i:1600732800;s:13:\"\0*\0recurrence\";i:86400;s:49:\"\0ActionScheduler_IntervalSchedule\0start_timestamp\";i:1600732800;s:53:\"\0ActionScheduler_IntervalSchedule\0interval_in_seconds\";i:86400;}",3,0,"0000-00-00 00:00:00","0000-00-00 00:00:00",0,NULL),
+(99,"wpforms_admin_notifications_update","complete","0000-00-00 00:00:00","0000-00-00 00:00:00","{\"tasks_meta_id\":2}","O:28:\"ActionScheduler_NullSchedule\":0:{}",3,1,"2020-09-21 01:08:23","2020-09-21 01:08:23",0,NULL);
